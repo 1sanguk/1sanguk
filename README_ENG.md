@@ -60,7 +60,7 @@ Server-side developer with **4 years of experience** building scalable backend s
 | Project | Description | Stack |
 |---|---|---|
 | **CocoMine** | Mobile SNS & game server — content dev & performance optimization | Go, C#, ASP.NET Core, MySQL, Redis, BigQuery |
-| **NolleowaMyhome** | MySQL migration · payment stabilization · data dashboard (4 regions, 200K+ users) | Java, MySQL, BigQuery, AWS, Looker Studio |
+| **Welcome to My Home** | MySQL migration · payment stabilization · data dashboard (4 regions, 200K+ users) | Java, MySQL, BigQuery, AWS, Looker Studio |
 | **Chungbuk Education System** | Public-sector HR management platform for Chungcheongbuk-do Education Office | Java, Spring, eGovFramework |
 | **Kakao Terms RAG** | RAG pipeline performance tuning — Top 5 in open competition | Python, LLM |
 | **C++ Game Server** | Self-directed network game server study project (ongoing) | C++, IOCP |
